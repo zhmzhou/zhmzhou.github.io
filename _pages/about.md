@@ -29,15 +29,11 @@ Contact Info
 ------
 A PDF version of my CV can be found [here](/files/zzm_cv_en.pdf) and a full listing of my publications is available on [ADS](https://ui.adsabs.harvard.edu/public-libraries/820_5p-9QvC1kFB9L27RNg) You can contact me at:
 <br> <br>
-zmzhou@nao.cas.cn
+Email: zmzhou at nao.cas.cn
 <br>
-+86-10-64863042
+Tel: +86-10-64863042
 <br> <br>
 National Astronomical Observatories, Chinese Academy of Sciences
 <br>
-A20 Datun Road, Chaoyang District,
-<br>
-Beijing 100101
-<br>
-China
+A20 Datun Road, Chaoyang District, Beijing, 100101, China
 

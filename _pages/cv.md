@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+A full PDF version can be found <a href="https://zhmzhou.github.io/files/cv_Zhouzhimin.pdf" style="text-decoration: none">here in English</a> and  <a href="https://zhmzhou.github.io/files/zzm.pdf" style="text-decoration: none">here in Chinese</a>.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Education and Working Experiences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.A. in Applied Physics, Shandong University at Weihai, 2003
+* M.A. in Astrophysics, National Astronomical Observatories, Chinese Academy of Sciences, 2007
+* Ph.D. in Astrophysics, National Astronomical Observatories, Chinese Academy of Sciences, 2009 - 2012<br>        <I>Advisor: Hong Wu</I><br><I>Thesis: Multi-wavelength Study of Bar-driven Secular Evolution</I> 
+* Researcher,  National Astronomical Observatories, Chinese Academy of Sciences, 2012 - Present
 
-Publications
+
+Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+First coauthor publications and those with significant contributions are shown below. A full listing of my publications (80) can be found on <a href="https://ui.adsabs.harvard.edu/public-libraries/820_5p-9QvC1kFB9L27RNg" style="text-decoration:none">ADS</a>.
+
+<ol>
+</ol>    
