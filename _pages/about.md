@@ -13,8 +13,9 @@ Astronomer at the National Astronomical Observatories, CAS
 I am an associate professor of Astronomy at [National Astronomical Observatories, Chinese Academy of Sciences](http://www.nao.cas.cn).
     My research focuses on observational astronomy, in particular the area of the physical properties of galaxies, as well as optical sky surveys. We use observations across the electromagnetic spectrum - from radio to infrared - to research the morphology (especially galactic bars), star formation, gas of galaxies. I also work on the pipeline development of data reduction for large optical sky surveys, focusing on the flux calibration.
 
-Some of my research highlights include:
 
+Some of my research highlights include:
+------
 <ul>
   <li>Galactic bars</li> 
   <li>Galaxy morphology</li>    
