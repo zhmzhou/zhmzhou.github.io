@@ -1,10 +1,8 @@
 ---
----
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-
 ---
 
 My research focuses on (1) galaxy evolution: understanding how galaxies evolve using data across the electromagnetic spectrum (radio, IR, optical, UV). (2) data reduction of large optical sky surveys: including SCUSS, BASS, DESI, CSST.

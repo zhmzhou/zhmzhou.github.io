@@ -9,6 +9,6 @@ A full listing of my publications can be found on [ADS](https://ui.adsabs.harvar
 
 <b>Main papers</b>
 <ol>
- <li> ... <\li>
+ <li> ... </li>
 </ol>
 
