@@ -21,7 +21,7 @@ Some of my research highlights include:
   <li>Galaxy morphology</li>    
   <li>Star formation in galaxies</li>
   <li>Flux calibration for sky surveys </li>
-  <li>multi-wavelength photometric sky surveys</li>
+  <li>Multi-wavelength photometric sky surveys</li>
 </ul> 
 
 
