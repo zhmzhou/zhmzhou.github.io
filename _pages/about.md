@@ -29,7 +29,7 @@ Contact Info
 ------
 A PDF version of my CV can be found [here](/files/zzm_cv_en.pdf) and a full listing of my publications is available on [ADS](https://ui.adsabs.harvard.edu/public-libraries/820_5p-9QvC1kFB9L27RNg) You can contact me at:
 <br> <br>
-Email: </var>zmzhou at nao.cas.cn</var>
+Email: <var>zmzhou at nao.cas.cn</var>
 <br>
 Tel: <var>+86-10-64863042</var>
 <br> <br>
