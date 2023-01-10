@@ -16,9 +16,7 @@ Education and Working Experiences
 ======
 * B.A. in Applied Physics, Shandong University at Weihai, 2003
 * M.A. in Astrophysics, National Astronomical Observatories, Chinese Academy of Sciences, 2007
-* Ph.D. in Astrophysics, National Astronomical Observatories, Chinese Academy of Sciences, 2009 - 2012<br>
-<I>Advisor: Hong Wu</I><br>
-<I>Thesis: Multi-wavelength Study of Bar-driven Secular Evolution</I> 
+* Ph.D. in Astrophysics, National Astronomical Observatories, Chinese Academy of Sciences, 2009 - 2012<br> <I>Advisor: Hong Wu</I><br> <I>Thesis: Multi-wavelength Study of Bar-driven Secular Evolution</I> 
 * Researcher,  National Astronomical Observatories, Chinese Academy of Sciences, 2012 - Present
 
 
