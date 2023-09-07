@@ -31,7 +31,6 @@ A PDF version of my CV can be found [here](/files/zzm_cv_en.pdf) and a full list
 <br> <br>
 Email: <var>zmzhou at nao.cas.cn</var>
 <br>
-Tel: <var>+86-10-64863042</var>
 <br> <br>
 National Astronomical Observatories, Chinese Academy of Sciences
 <br>
