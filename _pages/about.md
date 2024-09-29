@@ -27,7 +27,7 @@ Some of my research highlights include:
 
 Contact Info
 ------
-A PDF version of my CV can be found [here](/files/zzm_cv_en.pdf) and a full listing of my publications is available on [ADS](https://ui.adsabs.harvard.edu/public-libraries/_C-3vFvhQhWOrGpIIHMtgQ) You can contact me at:
+A PDF version of my CV can be found [here](/files/zzm_cv_en.pdf) and a full listing of my publications is available on [ADS](https://ui.adsabs.harvard.edu/public-libraries/5Fpp3V40S0Syr72YEinv_Q) You can contact me at:
 <br> <br>
 Email: <var>zmzhou at nao.cas.cn</var>
 <br>
